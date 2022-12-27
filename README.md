@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/UNT-PHYS-3510-template/Clustering.git)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNT-PHYS-3510-template/Clustering.git)
 
 # K-Means Clustering
 This assignment is based on two data files, one referring to a generic set of two variables (clusters.csv), and one generated in your instructor's research lab (protein_environ.csv). The latter contains more than 700 rows of data related to the atoms of a small protein (an insulin mutant, entry 1A7F in the Protein Data Bank). For each atom the file report some properties that are related to how close to the surface of the protein the atom is, as well as the distance from the center of mass of the protein.
